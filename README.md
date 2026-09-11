@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hey, I'm Kush
 
-<!--
-**kush85252-dotcom/kush85252-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python developer focused on building useful software.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python developer
+- Backend / software development
+- Building desktop and developer tools
+- Learning by shipping real projects
+
+## Featured Project
+
+### Smart File Manager
+A PyQt6 desktop application for organizing files and folders.
+
+- Python
+- PyQt6
+- Watchdog
+- pathlib
+- JSON
+- Windows
+
+## What I'm Working With
+
+Python · PyQt6 · Git · GitHub · Backend · APIs
+
+## Currently Building
+
+...
+
+## Find Me
+
+GitHub · Projects · Releases
