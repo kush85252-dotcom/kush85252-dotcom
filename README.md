@@ -7,8 +7,7 @@ Python developer building software, tools, and practical projects.
 **Smart File Manager**
 Modern Python/PyQt6 desktop file organizer with automatic monitoring, built-in explorer, context menus, configurable organization, and safety-focused file operations.
 
-**Python · PyQt6 · Watchdog · pathlib · JSON**
-
+**Python · PyQt6 · Watchdog · pathlib.**
 [View Smart File Manager](https://github.com/kush85252-dotcom/smart-file-manager)
 
 ## Tech
