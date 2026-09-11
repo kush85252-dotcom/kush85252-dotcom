@@ -19,4 +19,4 @@ Modern Python/PyQt6 desktop file organizer with automatic monitoring, built-in e
 
 Building new projects, learning backend development, and shipping software.
 
-[GitHub](https://github.com/kush85252-dotcom)
+
