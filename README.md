@@ -1,34 +1,22 @@
-# Hey, I'm Kush
+# Kush
 
-Python developer focused on building useful software.
-
-## About
-
-- Python developer
-- Backend / software development
-- Building desktop and developer tools
-- Learning by shipping real projects
+Python developer building software, tools, and practical projects.
 
 ## Featured Project
 
-### Smart File Manager
-A PyQt6 desktop application for organizing files and folders.
+**Smart File Manager**
+Modern Python/PyQt6 desktop file organizer with automatic monitoring, built-in explorer, context menus, configurable organization, and safety-focused file operations.
 
-- Python
-- PyQt6
-- Watchdog
-- pathlib
-- JSON
-- Windows
+**Python · PyQt6 · Watchdog · pathlib · JSON**
 
-## What I'm Working With
+[View Smart File Manager](https://github.com/kush85252-dotcom/smart-file-manager)
 
-Python · PyQt6 · Git · GitHub · Backend · APIs
+## Tech
 
-## Currently Building
+**Python** · **PyQt6** · **Git** · **GitHub** · **PowerShell**
 
-...
+## Currently
 
-## Find Me
+Building new projects, learning backend development, and shipping software.
 
-GitHub · Projects · Releases
+[GitHub](https://github.com/kush85252-dotcom)
