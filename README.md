@@ -32,10 +32,9 @@ A Python desktop file manager built with PyQt6, designed to make file organizati
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kush85252-dotcom&layout=compact&hide_border=true&theme=transparent)
 
-## Find Me
+## Find me
 
-- **GitHub:** [@kush85252-dotcom](https://github.com/kush85252-dotcom)
-- **Explore my projects:** [Repositories](https://github.com/kush85252-dotcom?tab=repositories)
+ **Explore my projects:** [Repositories](https://github.com/kush85252-dotcom?tab=repositories)
 
 ---
 
